@@ -1,0 +1,26 @@
+{
+    "name": "Sami Denis",
+    "website": "https://github.com/SamiDenislinked",
+    "linkedin": "https://www.linkedin.com/in/samantha-denis-9a641118b/",
+    "github": "samidenis",
+    "email": "sami.m.denis@gmail.comgoo",
+    "resume": "https://docs.google.com/document/d/1b-lyDb-DkS28cBQA1zdkSKpprp-dAqLtYe5uaNL-39U/edit?usp=sharing",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Unagi",
+        "Five Finger Fillet",
+        "Bridge"
+    ]
+}
